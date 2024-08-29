@@ -35,3 +35,11 @@ Asset Services Co-op _(January 2021 – May 2021)_
 - Placeholder
 - Placeholder
 - Placeholder
+
+## Skills
+
+| Domain | List |
+| ----- | ----- |
+| Languages | Python, C++, C, JavaScript, HTML, CSS, SQL, Assembly |
+| Toolsets | Power Platform, GitHub, Azure DevOps, SAP Commerce |
+| Attributes | Leadership, Communication, Presentation |
