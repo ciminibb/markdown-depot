@@ -42,3 +42,27 @@ Asset Services Co-op _(January 2021 – May 2021)_
 | ----- | ----- |
 | Languages | Python, JavaScript, C/C++, SQL, HTML, CSS, Markdown, MATLAB, Assembly, Haskell |
 | Toolsets | Power Platform, SAP Commerce Cloud, Wireshark, GitHub, Azure DevOps |
+
+## Interests
+
+### Fields
+
+- Machine learning
+- Database design
+- Systems programming
+- Interactive devices
+
+### Industries
+
+- Sports/performance analytics
+- Entertainment streaming services
+- Mechatronics
+- Medical technology
+- Travel networks
+
+### Projects
+
+- An application of machine learning to sports analytics or content curation
+- Working with biometric data ingested from a physical, wearable monitor
+- Using Department of Transport APIs for a creative solution for travelers (e.g., predicting delays)
+- Further combinations of the above fields and industries
