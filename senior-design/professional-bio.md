@@ -13,33 +13,33 @@ E-Commerce Co-op _(January 2024 – May 2024)_
 - Placeholder
 
 Data Intelligence Co-op _(May 2023 – August 2023)_
-- Placeholder
-- Placeholder
-- Placeholder
-- Placeholder
+- Discovered missing data and debugged the queries that caused it by patching their filename-parsing behavior
+- Reported cybersecurity posture with a dashboard showing metrics derived from phishing tests using DAX
+- Developed a feedback tool that is easily embedded in dashboards to assist enhancement intake and management
+- Investigated a travel expenditure spike, finding inefficient flight routing and entertainment costs to be culprits
 
 Custom Applications Co-op _(August 2022 – December 2022)_
-- Placeholder
-- Placeholder
-- Placeholder
-- Placeholder
+- Elicited requirements and sketched a minimum viable product from stakeholder needs for an onboarding application
+- Designed a normalized, relational database per the requirements and business rules, then erected it in Dataverse
+- Built a frontend for the above, kept lean with local caching, concise UX, and intentional client-side logic
+- Authored and presented a 90-minute livestreamed workshop about the Power Platform to over 200 colleagues
 
 Manufacturing Automation Co-op _(January 2022 – May 2022)_
-- Placeholder
-- Placeholder
-- Placeholder
-- Placeholder
+- Boosted warehouse throughput with additions to the drumming interface like pass/fail signals and attribute filters
+- Refactored client-side JavaScript as Python functions that execute on build, which halved webpage load times
+- Cut downtime from faulted process orders using stored procedures in SQL to automate the distribution of alerts
+- Created a toggleable dark theme, in CSS, to make the department’s internal documentation site more accessible
 
 Asset Services Co-op _(January 2021 – May 2021)_
-- Placeholder
-- Placeholder
-- Placeholder
-- Placeholder
+- Collected field data to maintain a flat-file database concerning the extent and condition of devices on storage tanks
+- Launched successful, safety-motivated device upgrades by presenting data visualizations to section superintendents
+- Analyzed past SPCC inspections to designate tanks with the most severe degradation trends as priorities
+- Restructured the plant’s rest-of-year schedule for capital projects to align with my study into priority tanks
 
 ## Skills
 
 | Domain | List |
 | ----- | ----- |
-| Languages | Python, C++, C, JavaScript, HTML, CSS, SQL, Assembly |
-| Toolsets | Power Platform, GitHub, Azure DevOps, SAP Commerce |
+| Languages | Python, JavaScript, C/C++, SQL, HTML, CSS, Markdown, MATLAB, Assembly, Haskell |
+| Toolsets | Power Platform, SAP Commerce Cloud, Wireshark, GitHub, Azure DevOps |
 | Attributes | Leadership, Communication, Presentation |
