@@ -7,10 +7,10 @@
 ### The Lubrizol Corporation
 
 E-Commerce Co-op _(January 2024 – May 2024)_
-- Placeholder
-- Placeholder
-- Placeholder
-- Placeholder
+- Wrote and imported a rotating banner component to display major products in a new business-to-business storefront
+- Implemented a document search feature on the help page of a newly-acquired beauty business website
+- Made a planning tool to service consistent, centralized management of corporate initiatives among executive leadership
+- Migrated application logic that was accruing expensive licensing fees to a Power BI dashboard, which circumvented the cost
 
 Data Intelligence Co-op _(May 2023 – August 2023)_
 - Discovered missing data and debugged the queries that caused it by patching their filename-parsing behavior
@@ -42,4 +42,3 @@ Asset Services Co-op _(January 2021 – May 2021)_
 | ----- | ----- |
 | Languages | Python, JavaScript, C/C++, SQL, HTML, CSS, Markdown, MATLAB, Assembly, Haskell |
 | Toolsets | Power Platform, SAP Commerce Cloud, Wireshark, GitHub, Azure DevOps |
-| Attributes | Leadership, Communication, Presentation |
